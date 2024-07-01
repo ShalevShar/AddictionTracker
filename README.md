@@ -37,14 +37,7 @@ Quit Addiction App is designed to help users overcome addiction. It provides too
 <img width="324" alt="Screenshot 2024-07-01 at 19 43 53" src="https://github.com/ShalevShar/AddictionTracker/assets/127881894/83f9c5d5-aa75-4813-8532-eb852d2f1e35">
 </p>
 
-## Layouts XML
 
-<p align="center">
-  <img width="534" alt="Screenshot 2024-07-01 at 19 55 54" src="https://github.com/ShalevShar/AddictionTracker/assets/127881894/28cabf0a-b1d0-46c2-a7e2-cfce38aafdf3">
-  <img width="527" alt="Screenshot 2024-07-01 at 19 56 11" src="https://github.com/ShalevShar/AddictionTracker/assets/127881894/fb947e2d-b459-42b4-a118-f1e5f63da65f">
-  <img width="415" alt="Screenshot 2024-07-01 at 19 56 20" src="https://github.com/ShalevShar/AddictionTracker/assets/127881894/3cb0d658-f53b-4dcc-9ff9-c51808f4a767">
-  <img width="498" alt="Screenshot 2024-07-01 at 19 56 33" src="https://github.com/ShalevShar/AddictionTracker/assets/127881894/480ae464-9ede-4d20-b35d-68fb4385bfa3">
-</p>
 
 ## Features
 
@@ -57,10 +50,11 @@ Quit Addiction App is designed to help users overcome addiction. It provides too
 
 ## Layouts XML
 
-<!-- Add XML layouts of significant screens here -->
 <p align="center">
-  <img width="600" alt="Layout 1" src="https://github.com/yourusername/your-repo/assets/layout1.png">
-  <img width="600" alt="Layout 2" src="https://github.com/yourusername/your-repo/assets/layout2.png">
+  <img width="534" alt="Screenshot 2024-07-01 at 19 55 54" src="https://github.com/ShalevShar/AddictionTracker/assets/127881894/28cabf0a-b1d0-46c2-a7e2-cfce38aafdf3">
+  <img width="527" alt="Screenshot 2024-07-01 at 19 56 11" src="https://github.com/ShalevShar/AddictionTracker/assets/127881894/fb947e2d-b459-42b4-a118-f1e5f63da65f">
+  <img width="415" alt="Screenshot 2024-07-01 at 19 56 20" src="https://github.com/ShalevShar/AddictionTracker/assets/127881894/3cb0d658-f53b-4dcc-9ff9-c51808f4a767">
+  <img width="498" alt="Screenshot 2024-07-01 at 19 56 33" src="https://github.com/ShalevShar/AddictionTracker/assets/127881894/480ae464-9ede-4d20-b35d-68fb4385bfa3">
 </p>
 
 ## Project Structure
