@@ -45,6 +45,7 @@ Quit Addiction App is designed to help users overcome addiction. It provides too
   <img width="415" alt="Screenshot 2024-07-01 at 19 56 20" src="https://github.com/ShalevShar/AddictionTracker/assets/127881894/3cb0d658-f53b-4dcc-9ff9-c51808f4a767">
   <img width="498" alt="Screenshot 2024-07-01 at 19 56 33" src="https://github.com/ShalevShar/AddictionTracker/assets/127881894/480ae464-9ede-4d20-b35d-68fb4385bfa3">
 </p>
+
 ## Features
 
 - **Personalized Modules**: Tailored support for smoking and sugar addiction.
