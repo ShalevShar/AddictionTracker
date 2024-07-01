@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="41" alt="Screenshot 2024-07-01 at 19 47 38" src="https://github.com/ShalevShar/AddictionTracker/assets/127881894/368bcfdc-0bb7-4cdb-941f-d861bcd68201">
+  <img width="41" alt="Screenshot 2024-07-01 at 19 47 38" src="https://github.com/ShalevShar/AddictionTracker/assets/127881894/368bcfdc-0bb7-4cdb-941f-d861bcd68201"> <img width="49" alt="Screenshot 2024-07-01 at 19 47 43" src="https://github.com/ShalevShar/AddictionTracker/assets/127881894/1de93381-980e-44d7-a5e6-42b913b679d2">
 </p>
 
 <a href="https://yourwebsite.com">
