@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/editTextDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Date"
+        android:focusable="false"
+        android:clickable="true"
+        android:inputType="none"/>
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/editTextDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Description"
+        android:layout_marginTop="8dp" />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/editTextDose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Dose"
+        android:layout_marginTop="8dp" />
+</LinearLayout>

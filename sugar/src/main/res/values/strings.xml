@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quit Sugar</string>
+    <string name="quit">Quit\n  Sugar</string>
+    <string name="quit_addition">Quit Sugar addition</string>
+    <string name="tips_header">Tips for Quitting Sugar:\n</string>
+    <string name="tips">
+
+    1. Read Labels: Check food labels for hidden sugars and choose products with low or no added sugars.\n\n
+    2. Eat Regular Meals: Maintain a regular eating schedule to avoid sugar cravings due to hunger.\n\n
+    3. Replace Sugary Snacks: Opt for fruits, nuts, or yogurt instead of sugary snacks.\n\n
+    4. Stay Hydrated: Drink water instead of sugary drinks to stay hydrated and reduce cravings.\n\n
+    5. Get Enough Sleep: Ensure you get adequate sleep as lack of sleep can increase sugar cravings.\n\n
+    6. Increase Protein Intake: Include more protein in your diet to keep you full and reduce sugar cravings.\n\n
+    7. Use Natural Sweeteners: If needed, use natural sweeteners like stevia or honey in moderation.\n\n
+    8. Plan Your Meals: Prepare meals ahead of time to avoid reaching for sugary convenience foods.\n\n
+    9. Manage Stress: Practice stress-relief techniques like meditation or exercise to prevent emotional eating.\n\n
+    10. Gradually Reduce: Slowly decrease your sugar intake instead of cutting it out all at once to avoid withdrawal symptoms.
+</string>
+</resources>

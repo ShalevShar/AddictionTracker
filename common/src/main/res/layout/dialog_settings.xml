@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:id="@+id/main_settings_LLO"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="50dp"
+        android:layout_marginBottom="22dp"
+        android:layout_marginEnd="15dp"
+        android:background="@drawable/settings_background"
+        android:backgroundTint="@color/blue_bar">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:id="@+id/dialog_option_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Settings"
+            android:fontFamily="@font/gilroy_medium"
+            android:textStyle="bold"
+            android:textSize="45sp"
+            android:textColor="@color/white"
+            android:padding="16dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/dialog_option_enlarge_font"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enlarge Font"
+            android:fontFamily="@font/gilroy_medium"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:background="@null"
+            android:padding="16dp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/dialog_option_reset_values"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Reset All Values"
+            android:fontFamily="@font/gilroy_medium"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="@color/white"
+            android:background="@null"
+            android:padding="16dp" />
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:id="@+id/dialog_option_back"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/back"
+            android:scaleType="fitCenter"
+            android:padding="30dp"
+            android:tint="@color/white"
+            android:layout_alignParentBottom="true"
+            android:background="@null"
+            android:layout_marginTop="255dp"
+            android:layout_marginStart="-25dp"/>
+
+    </LinearLayout>
+</RelativeLayout>

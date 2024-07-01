@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="600dp"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_alignParentTop="true"
+    android:layout_marginBottom="50dp"
+    android:background="@drawable/relapse_background">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/dialog_welcome_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome"
+        android:fontFamily="@font/gilroy_medium"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:textColor="@color/semi_black"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/dialog_welcome_subHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/quit_addition"
+        android:fontFamily="@font/gilroy_medium"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="@color/semi_black"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/dialog_welcome_header"
+        android:layout_marginTop="30dp"/>
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/dialog_welcome_EDT_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your name"
+        android:fontFamily="@font/gilroy_light"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/semi_black"
+        android:layout_below="@+id/dialog_welcome_subHeader"
+        android:inputType="textPersonName"
+        android:layout_marginTop="50dp"/>
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/dialog_welcome_EDT_age"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your age"
+        android:fontFamily="@font/gilroy_light"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/semi_black"
+        android:inputType="numberDecimal"
+        android:layout_below="@+id/dialog_welcome_EDT_name"
+        android:layout_marginTop="30dp" />
+
+    <androidx.appcompat.widget.AppCompatImageButton
+        android:id="@+id/dialog_welcome_BTN_continue"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:scaleType="fitCenter"
+        android:layout_gravity="bottom"
+        android:src="@drawable/back"
+        android:rotation="180"
+        android:tint="@color/blue_bar"
+        android:background="@null"
+        android:layout_marginTop="200dp"
+        android:layout_marginEnd="40dp"
+        android:layout_below="@+id/dialog_welcome_EDT_age"
+        android:layout_alignParentEnd="true"/>
+</RelativeLayout>

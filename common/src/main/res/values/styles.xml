@@ -1,0 +1,49 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/blue_bar</item>
+        <item name="colorPrimaryDark">@color/blue_bar</item>
+        <item name="colorAccent">@color/blue_bar</item>
+    </style>
+
+    <!-- Custom DatePickerDialog style -->
+    <style name="CustomDatePickerDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:datePickerStyle">@style/CustomDatePickerStyle</item>
+        <item name="android:buttonBarPositiveButtonStyle">@style/CustomButtonStyle</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/CustomButtonStyle</item>
+        <item name="android:colorControlActivated">@color/blue_bar</item>
+    </style>
+
+    <!-- Custom DatePicker style -->
+    <style name="CustomDatePickerStyle" parent="android:Widget.Material.DatePicker">
+        <item name="android:headerBackground">@color/blue_bar</item>
+        <item name="android:calendarTextColor">@color/grey_bar</item>
+        <item name="android:dateTextAppearance">@color/blue_bar</item>
+        <item name="android:yearListItemTextAppearance">@color/blue_bar</item>
+        <item name="android:dayOfWeekBackground">@color/blue_bar</item>
+        <item name="android:dayOfWeekTextAppearance">@color/grey_bar</item>
+    </style>
+
+    <!-- Custom text appearance for date picker -->
+    <style name="CustomDateTextAppearance" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:textColor">@color/grey_bar</item>
+    </style>
+
+    <!-- Custom text appearance for day of week -->
+    <style name="CustomDayOfWeekTextAppearance" parent="TextAppearance.AppCompat.Small">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <!-- Custom button style for the date picker -->
+    <style name="CustomButtonStyle" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textColor">@color/blue_bar</item>
+    </style>
+
+    <style name="CustomLinearProgressIndicator" parent="Widget.MaterialComponents.LinearProgressIndicator">
+        <item name="indicatorColor">@color/semi_black</item>
+        <item name="trackColor">@color/green_bar</item>
+        <item name="trackThickness">8dp</item>
+        <item name="indicatorDirectionLinear">startToEnd</item>
+    </style>
+</resources>

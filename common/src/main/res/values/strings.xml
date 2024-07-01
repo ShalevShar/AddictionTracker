@@ -1,0 +1,18 @@
+<resources>
+    <string name="quit">Quit</string>
+    <string name="quit_addition">Quit addition</string>
+    <string-array name="rehab_targets">
+        <item>12</item>
+        <item>24</item>
+        <item>36</item>
+        <item>48</item>
+        <item>60</item>
+        <item>72</item>
+        <item>84</item>
+        <item>96</item>
+        <item>108</item>
+        <item>120</item>
+    </string-array>
+    <string name="tips_header">Tips\n</string>
+    <string name="tips">Tips Quiting ..</string>
+</resources>

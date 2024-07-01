@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quit Smoking</string>
+    <string name="quit">Quit\n  Smoking</string>
+    <string name="quit_addition">Quit Smoking addition</string>
+    <string name="tips_header">Tips for Quitting Smoking:\n</string>
+    <string name="tips">
+    1. Identify Triggers: Recognize and avoid situations that make you want to smoke.\n\n
+    2. Stay Busy: Fill your time with activities like exercise or hobbies to keep your mind off smoking.\n\n
+    3. Seek Support: Talk to friends, family, or join a support group to stay motivated.\n\n
+    4. Use Nicotine Replacements: Consider using nicotine patches or gum to ease withdrawal symptoms.\n\n
+    5. Stay Hydrated: Drink plenty of water to flush out toxins and reduce cravings.\n\n
+    6. Practice Relaxation Techniques: Engage in deep breathing, meditation, or yoga to manage stress.\n\n
+    7. Avoid Alcohol: Stay away from alcohol as it can lower your willpower and increase cravings.\n\n
+    8. Reward Yourself: Set up a reward system for milestones to stay motivated.\n\n
+    9. Stay Positive: Focus on the benefits of quitting smoking to keep your spirits up.\n\n
+    10. Consult a Professional: Seek advice from a doctor or therapist for additional support and resources.
+</string>
+</resources>
